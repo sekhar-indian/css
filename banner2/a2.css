@@ -1,0 +1,48 @@
+/* why Choose Us? */
+.wc-section{
+    background-color: #f9fbfe;
+}
+.wc-section-heading{
+ color:#183b56;
+ font-weight:700;
+ font-size:28px;
+ font-family: roboto;
+ 
+}
+.wc-section-discription{
+    font-family:"roboto";
+    font-size:16px;
+    color:#5a7184;
+}
+/* why Choose Us? card 1 */
+.wc-card1{
+    background-color:white;
+    text-align:center;
+    border-style:solid;
+    border-width:1px;
+    border-color:#e5eaf4;
+    border-radius:16px;
+
+}
+.wc-card1-img{
+    height:90px;
+    width:87px;
+}
+.wc-card1-title{
+    font-family:roboto;
+    font-weight:500;
+    font-size:22px;
+    font-color:#323f4b;
+
+}
+.wc-card1-discription{
+    font-family:roboto;
+    font-size:16px;
+    font-color:#7b8794;
+}
+.offers{
+    
+    font-style:italic;
+    font-color:#323f4b;
+    font-weight: 800;
+}
