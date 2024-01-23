@@ -1,3 +1,161 @@
+#custom-nave1{
+  color:#3b5064;
+  font-family:"Roboto";
+}
+
+#custom-nave3{
+  color:#3b5064;
+  font-family:"Roboto";
+}
+
+#custom-nave4{
+  color:#3b5064;
+  font-family:"Roboto";
+}
+
+#custom-nave5{
+  color:#3b5064;
+  font-family:"Roboto";
+}
+
+.food-nave-img{
+  width:80px;
+  height: 70px;
+}
+
+
+/* baner code */
+.baner-bg{
+height: 100vh;
+background-image:url("foodmunch-banner-bg.png");
+background-size:cover;
+}
+
+.baner-heading{
+  color:aliceblue;
+  font-family:Roboto;
+  font-size: 45px;
+}
+
+.baner-caption{
+  color:aliceblue;
+  font-family:Roboto;
+  font-size: 25px;
+}
+/* baner view menu button code */
+#vivew-menu-button{
+  width: 130px;
+  height:45px;
+  color:aliceblue;
+  background-color: #d0b200;
+  border-width:0;
+  border-radius: 10px;
+  margin-left: 10px;
+  
+}
+/* baner order-button */
+#order-button{
+  width:130px;
+  height:45px;
+  color:#d0b200;
+  background-color:transparent;
+  border-style:solid;
+  border-width: 1px;
+  border-color:#d0b200 ;
+  border-radius:8px;
+}
+
+.text-center{
+  margin-top: 200px;
+}
+
+
+
+
+/* why Choose Us? */
+.wc-section{
+  background-color: #f9fbfe;
+}
+.wc-section-heading{
+color:#183b56;
+font-weight:700;
+font-size:28px;
+font-family: roboto;
+
+}
+.wc-section-discription{
+  font-family:"roboto";
+  font-size:16px;
+  color:#5a7184;
+}
+/* why Choose Us? card 1 */
+.wc-card1{
+  background-color:white;
+  text-align:center;
+  border-style:solid;
+  border-width:1px;
+  border-color:#e5eaf4;
+  border-radius:16px;
+
+}
+.wc-card1-img{
+  height:90px;
+  width:87px;
+}
+.wc-card1-title{
+  font-family:roboto;
+  font-weight:500;
+  font-size:22px;
+  font-color:#323f4b;
+
+}
+.wc-card1-discription{
+  font-family:roboto;
+  font-size:16px;
+  font-color:#7b8794;
+}
+.offers{
+  
+  font-style:italic;
+  font-color:#323f4b;
+  font-weight: 800;
+}
+
+
+/* explore-menu-section code */
+.explore-menu-section{
+  background-color:white;
+}
+.menu-section-heading{
+  font-family:roboto;
+  font-size:28px;
+  font-color:#183b56;
+  font-weight:700;
+}
+.menu-item-img{
+  border-radius:16px;
+
+}
+.menu-card-title{
+  color:#323f4b;
+  font-family:"roboto";
+  font-weight:500;
+  font-size:18px;
+  margin-top:24px;
+}
+.menu-item-link{
+  color:#d0b200;
+  font-family:roboto;
+  font-weight:500;
+  font-size:14px;
+}
+.menu-item-card{
+  border-radius:12px;
+}
+
+
+
+
 
 .healthy-food-section {
   background-color: #f9fbfe;
